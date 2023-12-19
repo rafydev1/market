@@ -8,17 +8,18 @@ Acest site va fi folosit pentru a lista produse de catre un admin si a fi vandut
 
 ### Plugins
 
-### -BackEnd
+### BackEnd
 
 ```
-    Express
-    Sequlize
+    -Express
+    -Sequlize
 ```
 
-### -Frontend
+### Frontend
 
 ```
-    Axios
-    Framer-Motion
-    React-Icons
+    -Axios
+    -Framer-Motion
+    -React-Icons
+    -TailWind
 ```
